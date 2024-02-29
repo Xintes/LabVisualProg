@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mrkyt\\source\\repos\\Lab4VisualProg\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{003F3ECC-835C-4B7D-A639-8A83B538DFC4}|Lab4VisualProg\\Lab4VisualProg.csproj|c:\\users\\mrkyt\\source\\repos\\lab4visualprog\\lab4visualprog\\regularexpressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003F3ECC-835C-4B7D-A639-8A83B538DFC4}|Lab4VisualProg\\Lab4VisualProg.csproj|solutionrelative:lab4visualprog\\regularexpressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2490C65-FDCA-4EFE-B58A-FB2D7155774F}|Run\\Run.csproj|c:\\users\\mrkyt\\source\\repos\\lab4visualprog\\run\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2490C65-FDCA-4EFE-B58A-FB2D7155774F}|Run\\Run.csproj|solutionrelative:run\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mrkyt\\source\\repos\\Lab4VisualProg\\Run\\Program.cs",
+              "RelativeDocumentMoniker": "Run\\Program.cs",
+              "ToolTip": "C:\\Users\\mrkyt\\source\\repos\\Lab4VisualProg\\Run\\Program.cs",
+              "RelativeToolTip": "Run\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T21:59:02.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RegularExpressions.cs",
+              "DocumentMoniker": "C:\\Users\\mrkyt\\source\\repos\\Lab4VisualProg\\Lab4VisualProg\\RegularExpressions.cs",
+              "RelativeDocumentMoniker": "Lab4VisualProg\\RegularExpressions.cs",
+              "ToolTip": "C:\\Users\\mrkyt\\source\\repos\\Lab4VisualProg\\Lab4VisualProg\\RegularExpressions.cs",
+              "RelativeToolTip": "Lab4VisualProg\\RegularExpressions.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T21:08:42.982Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
