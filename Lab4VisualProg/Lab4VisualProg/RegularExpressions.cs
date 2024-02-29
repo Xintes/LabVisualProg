@@ -15,6 +15,7 @@ namespace Lab4VisualProg
             int count = matches.Count();
             return count;
         }
+
         //2
         public string Replaceble(string text)
         {
@@ -32,6 +33,7 @@ namespace Lab4VisualProg
             }
             return v1.ToString();
         }
+
         //3
         public string HideNumber(string text)
         {
@@ -45,6 +47,7 @@ namespace Lab4VisualProg
             });
             return words;
         }
+
         //4
         public string FindAutoNum(string text)
         {
@@ -57,7 +60,20 @@ namespace Lab4VisualProg
             }
             return autoOutput.ToString();
         }
+
         //5
+        public string ReturnIp(string text)
+        {
+            Regex regex = new Regex(@"\b(\d{1,3}\.){3}\d{1,3}\b");
+            MatchCollection matches = regex.Matches(text);
+
+            StringBuilder ipOutput = new StringBuilder("IPv4-адреса: ");
+            foreach (Match match in matches)
+            {
+                ipOutput.Append(match + " ");
+            }
+            return ipOutput.ToString();
+        }
 
     }
 }
