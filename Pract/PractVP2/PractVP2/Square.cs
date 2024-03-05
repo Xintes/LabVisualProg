@@ -8,10 +8,11 @@ namespace PractVP2
 {
     public class Square : RegularPolygon
     {
-        public Square(string Name, string Color, double SideLenght) : base(Name, Color, SideLenght, 0)
+        public Square(string name, string color, double sideLenght) : base(name, color, sideLenght, 0)
         {
         }
-        public override double Perimeter { get { return 4 * GetSetSideLenght; } }
-        public override double GetArea { get { return GetSetSideLenght * GetSetSideLenght; } }
+        public override double Perimeter { get { return 4 * SideLenght; } }
+        public override double Area { get { return SideLenght * SideLenght; } }
+        
     }
 }

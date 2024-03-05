@@ -8,9 +8,9 @@ namespace PractVP2
 {
     public class Regtangle : Parallelagram
     {
-        public override double Perimeter { get { return 2 * (GetSetSideA * GetSetSideB); } }
-        public override double GetArea { get { return GetSetSideA * GetSetSideB; } }
-        public Regtangle(string Name, string Color, double sideA, double sideB, double hight) : base(Name, Color, sideA, sideB, hight)
+        public override double Perimeter { get { return 2 * (SideA * SideB); } }
+        public override double Area { get { return SideA * SideB; } }
+        public Regtangle(string name, string color, double sideA, double sideB, double hight) : base(name, color, sideA, sideB, hight)
         {
         }
     }

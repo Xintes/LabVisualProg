@@ -8,15 +8,15 @@ namespace PractVP2
 {
     public class Ring : Circle
     {
-        private double InsideRadius;
-        public double GetInsideRadius
+        private double insideRadius;
+        public double InsideRadius
         {
-            get { return InsideRadius; }
+            get { return insideRadius; }
             set
             {
                 if (value >= 0)
                 {
-                    InsideRadius = value;
+                    insideRadius = value;
                 }
                 else
                 {
@@ -24,11 +24,11 @@ namespace PractVP2
                 }
             }
         }
-        public override double Perimeter { get { return 2 * Math.PI * (GetSetRadius + InsideRadius); } }
-        public override double GetArea { get { return Math.PI * (Math.Pow(GetSetRadius, 2) - Math.Pow(InsideRadius, 2)); } }
-        public Ring(string Name, string Color, double Radius, double InsideRadius) : base(Name, Color, Radius)
+        public override double Perimeter { get { return 2 * Math.PI * (Radius + insideRadius); } }
+        public override double Area { get { return Math.PI * (Math.Pow(Radius, 2) - Math.Pow(insideRadius, 2)); } }
+        public Ring(string name, string color, double radius, double insideRadius) : base(name, color, radius)
         {
-            this.InsideRadius = InsideRadius;
+            InsideRadius = insideRadius;
         }
     }
 }

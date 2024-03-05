@@ -8,15 +8,15 @@ namespace PractVP2
 {
     public class Rhombus : Parallelagram
     {
-        private double Diag1;
-        public double GetSetDiag1
+        private double diag1;
+        public double Diag1
         {
-            get { return Diag1; }
+            get { return diag1; }
             set
             {
                 if (value >= 0)
                 {
-                    Diag1 = value;
+                    diag1 = value;
                 }
                 else
                 {
@@ -24,15 +24,15 @@ namespace PractVP2
                 }
             }
         }
-        private double Diag2;
-        public double GetSetDiag2
+        private double diag2;
+        public double Diag2
         {
-            get { return Diag2; }
+            get { return diag2; }
             set
             {
                 if (value >= 0)
                 {
-                    Diag2 = value;
+                    diag2 = value;
                 }
                 else
                 {
@@ -40,12 +40,12 @@ namespace PractVP2
                 }
             }
         }
-        public override double Perimeter { get { return 2 * Math.Sqrt(Math.Pow(Diag1, 2) + Math.Pow(Diag2, 2)); } }
-        public override double GetArea { get { return 1/2 * Diag1 * Diag2; } }
-        public Rhombus(string Name, string Color, double Diag1, double Diag2) : base(Name, Color,0,0,0)
+        public override double Perimeter { get { return 2 * Math.Sqrt(Math.Pow(diag1, 2) + Math.Pow(diag2, 2)); } }
+        public override double Area { get { return 1/2 * diag1 * diag2; } }
+        public Rhombus(string name, string color, double diag1, double diag2) : base(name, color, 0,0,0)
         {
-            this.Diag1 = Diag1;
-            this.Diag2 = Diag2;
+            Diag1 = diag1;
+            Diag2 = diag2;
         }
     }
 }

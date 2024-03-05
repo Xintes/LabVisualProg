@@ -1,4 +1,4 @@
-﻿using ClassLibrary1;
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,15 +9,15 @@ namespace PractVP2
 {
     public class Parallelagram : Figure
     {
-        private double SideA;
-        public double GetSetSideA
+        private double sideA;
+        public double SideA
         {
-            get { return SideA; }
+            get { return sideA; }
             set
             {
                 if (value >= 0)
                 {
-                    SideA = value;
+                    sideA = value;
                 }
                 else
                 {
@@ -25,15 +25,15 @@ namespace PractVP2
                 }
             }
         }
-        private double SideB;
-        public double GetSetSideB
+        private double sideB;
+        public double SideB
         {
-            get { return SideA; }
+            get { return sideB; }
             set
             {
                 if (value >= 0)
                 {
-                    SideA = value;
+                    sideA = value;
                 }
                 else
                 {
@@ -41,15 +41,15 @@ namespace PractVP2
                 }
             }
         }
-        private double Hight;
-        public double GetSetHight
+        private double hight;
+        public double Hight
         {
-            get { return Hight; }
+            get { return hight; }
             set
             {
                 if (value >= 0)
                 {
-                    Hight = value;
+                    hight = value;
                 }
                 else
                 {
@@ -57,9 +57,9 @@ namespace PractVP2
                 }
             }
         }
-        public override double Perimeter { get { return 2 * (GetSetSideA * GetSetSideB); } }
-        public override double GetArea { get { return GetSetSideA * GetSetHight; } }
-        public Parallelagram(string Name, string Color, double sideA, double sideB, double hight) : base(Name, Color)
+        public override double Perimeter { get { return 2 * (SideA * SideB); } }
+        public override double Area { get { return SideA * Hight; } }
+        public Parallelagram(string name, string color, double sideA, double sideB, double hight) : base(name, color)
         {
             SideA = sideA;
             SideB = sideB;

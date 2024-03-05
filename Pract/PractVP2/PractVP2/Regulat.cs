@@ -1,4 +1,4 @@
-﻿using ClassLibrary1;
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,15 +9,15 @@ namespace PractVP2
 {
     public class RegularPolygon : Figure
     {
-        private int NumberOfSide;
-        public int GetSetNumberOfSide
+        private int numberOfSide;
+        public int NumberOfSide
         {
-            get { return NumberOfSide; }
+            get { return numberOfSide; }
             set
             {
                 if (value >= 0)
                 {
-                    NumberOfSide = value;
+                    numberOfSide = value;
                 }
                 else
                 {
@@ -25,15 +25,15 @@ namespace PractVP2
                 }
             }
         }
-        private double SideLenght;
-        public double GetSetSideLenght
+        private double sideLenght;
+        public double SideLenght
         {
-            get { return SideLenght; }
+            get { return sideLenght; }
             set
             {
                 if (value >= 0)
                 {
-                    SideLenght = value;
+                    sideLenght = value;
                 }
                 else
                 {
@@ -41,12 +41,12 @@ namespace PractVP2
                 }
             }
         }
-        public override double Perimeter { get { return NumberOfSide * Math.Pow(SideLenght, 2) / (4 * Math.Tan(Math.PI / NumberOfSide)); } }
-        public override double GetArea { get { return NumberOfSide * SideLenght; } }
-        public RegularPolygon(string Name, string Color, double SideLenght, int NumberOfSide) : base(Name, Color)
+        public override double Perimeter { get { return numberOfSide * Math.Pow(SideLenght, 2) / (4 * Math.Tan(Math.PI / numberOfSide)); } }
+        public override double Area { get { return numberOfSide * SideLenght; } }
+        public RegularPolygon(string name, string color, double sideLenght, int numberOfSide) : base(name, color)
         {
-            this.NumberOfSide = NumberOfSide;
-            this.SideLenght = SideLenght;
+            NumberOfSide = numberOfSide;
+            SideLenght = sideLenght;
         }
     }
 }

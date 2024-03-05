@@ -1,4 +1,4 @@
-﻿using ClassLibrary1;
+﻿
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,13 +9,13 @@ namespace PractVP2
 {
     public class Circle : Figure
     {
-        private double Radius;
-        public double GetSetRadius {
-            get { return Radius; }
+        private double radius;
+        public double Radius {
+            get { return radius; }
             set
             {  if (value >= 0)
                 {
-                    Radius = value;
+                    radius = value;
                 }
                 else
                 {
@@ -24,11 +24,11 @@ namespace PractVP2
             }
         }
         
-        public override double Perimeter { get { return 2 * Math.PI * Radius; } }
-        public override double GetArea { get { return Math.PI * Math.Pow(Radius, 2); } }
-        public Circle(string Name, string Color, double Radius) : base(Name, Color)
+        public override double Perimeter { get { return 2 * Math.PI * radius; } }
+        public override double Area { get { return Math.PI * Math.Pow(radius, 2); } }
+        public Circle(string name, string color, double radius) : base(name, color)
         {
-            this.Radius = Radius;
+            Radius = radius;
         }
 
     }

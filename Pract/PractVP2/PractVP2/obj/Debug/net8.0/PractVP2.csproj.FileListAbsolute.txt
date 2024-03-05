@@ -9,3 +9,15 @@ C:\Users\mrkyt\source\repos\PractVP2\PractVP2\obj\Debug\net8.0\PractVP2.dll
 C:\Users\mrkyt\source\repos\PractVP2\PractVP2\obj\Debug\net8.0\refint\PractVP2.dll
 C:\Users\mrkyt\source\repos\PractVP2\PractVP2\obj\Debug\net8.0\PractVP2.pdb
 C:\Users\mrkyt\source\repos\PractVP2\PractVP2\obj\Debug\net8.0\ref\PractVP2.dll
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Pract\PractVP2\PractVP2\bin\Debug\net8.0\PractVP2.deps.json
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Pract\PractVP2\PractVP2\bin\Debug\net8.0\PractVP2.dll
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Pract\PractVP2\PractVP2\bin\Debug\net8.0\PractVP2.pdb
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Pract\PractVP2\PractVP2\obj\Debug\net8.0\PractVP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Pract\PractVP2\PractVP2\obj\Debug\net8.0\PractVP2.AssemblyInfoInputs.cache
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Pract\PractVP2\PractVP2\obj\Debug\net8.0\PractVP2.AssemblyInfo.cs
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Pract\PractVP2\PractVP2\obj\Debug\net8.0\PractVP2.csproj.CoreCompileInputs.cache
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Pract\PractVP2\PractVP2\obj\Debug\net8.0\PractVP2.sourcelink.json
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Pract\PractVP2\PractVP2\obj\Debug\net8.0\PractVP2.dll
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Pract\PractVP2\PractVP2\obj\Debug\net8.0\refint\PractVP2.dll
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Pract\PractVP2\PractVP2\obj\Debug\net8.0\PractVP2.pdb
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Pract\PractVP2\PractVP2\obj\Debug\net8.0\ref\PractVP2.dll

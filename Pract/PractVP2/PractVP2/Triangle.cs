@@ -8,15 +8,15 @@ namespace PractVP2
 {
     public class Triangle : RegularPolygon
     {
-        private double SideA;
-        public double GetSetSideA
+        private double sideA;
+        public double SideA
         {
-            get { return SideA; }
+            get { return sideA; }
             set
             {
                 if (value >= 0)
                 {
-                    SideA = value;
+                    sideA = value;
                 }
                 else
                 {
@@ -24,15 +24,15 @@ namespace PractVP2
                 }
             }
         }
-        private double SideB;
-        public double GetSetSideB
+        private double sideB;
+        public double SideB
         {
-            get { return SideB; }
+            get { return sideB; }
             set
             {
                 if (value >= 0)
                 {
-                    SideB = value;
+                    sideB = value;
                 }
                 else
                 {
@@ -40,15 +40,15 @@ namespace PractVP2
                 }
             }
         }
-        private double SideC;
-        public double GetSetSideC
+        private double sideC;
+        public double SideC
         {
-            get { return SideC; }
+            get { return sideC; }
             set
             {
                 if (value >= 0)
                 {
-                    SideC = value;
+                    sideC = value;
                 }
                 else
                 {
@@ -56,11 +56,11 @@ namespace PractVP2
                 }
             }
         }
-        public Triangle(string Name, string Color, double SideA, double SideB, double SideC) : base(Name, Color, 0, 0)
+        public Triangle(string name, string color, double sideA, double sideB, double sideC) : base(name, color, 0, 0)
         {
-            this.SideA = SideA;
-            this.SideB = SideB;
-            this.SideC = SideC;
+            SideA = sideA;
+            SideB = sideB;
+            SideC = sideC;
         }
         public override double Perimeter
         {
@@ -70,6 +70,6 @@ namespace PractVP2
                 return Math.Sqrt(s * (s - SideA) * (s - SideB) * (s - SideC));
             }
         }
-        public override double GetArea { get { return SideA + SideB + SideC; } }
+        public override double Area { get { return SideA + SideB + SideC; } }
     }
 }
