@@ -75,5 +75,16 @@ namespace Lab4VisualProg
             return ipOutput.ToString();
         }
 
+        //6 Доп
+        public string CorrectPhoneNumber(string phoneNum)
+        {
+            Regex hide = new Regex(@"(\+7|8)(\d{3})(\d{3})(\d\d)(\d\d)");
+            string words = Regex.Replace(phoneNum, $@"{hide}", " +7 ($2) $3-$4-$5");
+           
+            return words;
+        }
+
     }
 }
+
+///8(\d{3}){2}(\d\d){2} | 8\s*(\d{3}\s*){2}(\d\d\s*)(\d\d) | 8\((\d{3})\)(\d{3})(\d\d){2} | 8\s*\((\d{3}))\s*(\d{3})\s*(\d\d\s*)(\d\d) |

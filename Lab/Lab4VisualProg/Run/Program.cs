@@ -32,3 +32,9 @@ Console.WriteLine($"Задание 4:\n{autoText.FindAutoNum(textOfAuto)}\n\n");
 RegularExpressions iP = new RegularExpressions();
 string textOfip = "Мы обнаружили IP-адреса: 192.168.0.1 и 10.0.0.1. А может и 1000.231.2141. или 1.1.1.1";
 Console.WriteLine($"Задание 5:\n{iP.ReturnIp(textOfip)}");
+
+
+/////6 доп
+RegularExpressions PhoneNum = new RegularExpressions();
+Console.WriteLine($"Задание 6 доп:\n{PhoneNum.CorrectPhoneNumber("+79999794444")}");
+Console.WriteLine($"\n{PhoneNum.CorrectPhoneNumber("82214124232")}");
