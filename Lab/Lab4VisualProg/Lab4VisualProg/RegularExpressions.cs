@@ -20,30 +20,30 @@ namespace Lab4VisualProg
         public string Replaceble(string text)
         {
             string[] words = text.Split(" ");
-            StringBuilder v1 = new StringBuilder();
+            StringBuilder replacebleWord = new StringBuilder();
             foreach (string word in words)
             {
                 if (word.Length > 1)
                 {
                     StringBuilder tmp = new StringBuilder(word);
                     (tmp[tmp.Length - 1], tmp[0]) = (tmp[0], tmp[tmp.Length - 1]);
-                    v1.Append(tmp+" ");
+                    replacebleWord.Append(tmp+" ");
                 }
-                else v1.Append(word+" ");
+                else replacebleWord.Append(word+" ");
             }
-            return v1.ToString();
+            return replacebleWord.ToString();
         }
 
         //3
         public string HideNumber(string text)
         {
-            Regex hide = new Regex(@"\+\d\s*\(\d{3,5}\)\s*\d");
-            string n1 = @"\d\d-\d\d-\d\d";
-            string n2 = @"\d\d-\d\d";
-            string words = Regex.Replace(text, $@"({hide})({n1}|{n2})\b", m =>
+            Regex hidePattern = new Regex(@"\+\d\s*\(\d{3,5}\)\s*\d");
+            string pattern1 = @"\d\d-\d\d-\d\d";
+            string pattern2 = @"\d\d-\d\d";
+            string words = Regex.Replace(text, $@"({hidePattern})({pattern1}|{pattern2})\b", message =>
             {
-                return m.Groups[1]/*ПОлучаем текст группы захвата находящая текст по шаблону ({hide})*/
-                + Regex.Replace(m.Groups[2].Value, @"\d", "x");/*Группа захвата ({n1}|{n2})*/
+                return message.Groups[1]/*ПОлучаем текст группы захвата находящая текст по шаблону ({hide})*/
+                + Regex.Replace(message.Groups[2].Value, @"\d", "x");/*Группа захвата ({n1}|{n2})*/
             });
             return words;
         }
@@ -78,7 +78,7 @@ namespace Lab4VisualProg
         //6 Доп
         public string CorrectPhoneNumber(string phoneNum)
         {
-            Regex hide = new Regex(@"(\+7|8)(\d{3})(\d{3})(\d\d)(\d\d)");
+            Regex hide = new Regex(@"(\+7|8)?(\d{3})(\d{3})(\d\d)(\d\d)");
             string words = Regex.Replace(phoneNum, $@"{hide}", " +7 ($2) $3-$4-$5");
            
             return words;

@@ -38,3 +38,4 @@ Console.WriteLine($"Задание 5:\n{iP.ReturnIp(textOfip)}");
 RegularExpressions PhoneNum = new RegularExpressions();
 Console.WriteLine($"Задание 6 доп:\n{PhoneNum.CorrectPhoneNumber("+79999794444")}");
 Console.WriteLine($"\n{PhoneNum.CorrectPhoneNumber("82214124232")}");
+Console.WriteLine($"\n{PhoneNum.CorrectPhoneNumber("2214124232")}");
