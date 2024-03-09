@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lab5VisualProg/1.0.0": {
+        "runtime": {
+          "Lab5VisualProg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab5VisualProg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
