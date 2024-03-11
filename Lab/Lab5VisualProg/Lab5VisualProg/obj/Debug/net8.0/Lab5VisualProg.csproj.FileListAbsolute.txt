@@ -9,3 +9,15 @@ C:\Users\mrkyt\source\repos\Lab5VisualProg\Lab5VisualProg\obj\Debug\net8.0\Lab5V
 C:\Users\mrkyt\source\repos\Lab5VisualProg\Lab5VisualProg\obj\Debug\net8.0\refint\Lab5VisualProg.dll
 C:\Users\mrkyt\source\repos\Lab5VisualProg\Lab5VisualProg\obj\Debug\net8.0\Lab5VisualProg.pdb
 C:\Users\mrkyt\source\repos\Lab5VisualProg\Lab5VisualProg\obj\Debug\net8.0\ref\Lab5VisualProg.dll
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab5VisualProg\Lab5VisualProg\bin\Debug\net8.0\Lab5VisualProg.deps.json
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab5VisualProg\Lab5VisualProg\bin\Debug\net8.0\Lab5VisualProg.dll
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab5VisualProg\Lab5VisualProg\bin\Debug\net8.0\Lab5VisualProg.pdb
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab5VisualProg\Lab5VisualProg\obj\Debug\net8.0\Lab5VisualProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab5VisualProg\Lab5VisualProg\obj\Debug\net8.0\Lab5VisualProg.AssemblyInfoInputs.cache
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab5VisualProg\Lab5VisualProg\obj\Debug\net8.0\Lab5VisualProg.AssemblyInfo.cs
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab5VisualProg\Lab5VisualProg\obj\Debug\net8.0\Lab5VisualProg.csproj.CoreCompileInputs.cache
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab5VisualProg\Lab5VisualProg\obj\Debug\net8.0\Lab5VisualProg.sourcelink.json
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab5VisualProg\Lab5VisualProg\obj\Debug\net8.0\Lab5VisualProg.dll
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab5VisualProg\Lab5VisualProg\obj\Debug\net8.0\refint\Lab5VisualProg.dll
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab5VisualProg\Lab5VisualProg\obj\Debug\net8.0\Lab5VisualProg.pdb
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab5VisualProg\Lab5VisualProg\obj\Debug\net8.0\ref\Lab5VisualProg.dll

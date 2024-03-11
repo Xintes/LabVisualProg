@@ -87,7 +87,7 @@ namespace Lab5VisualProg
             return new DynamicArrayEnumerator(this);
         }
 
-        IEnumerator IEnumerable.GetEnumerator()
+        IEnumerator IEnumerable.GetEnumerator() //метод просто вызывает метод GetEnumerator(), который является неявной реализацией IEnumerable<T>.GetEnumerator(), и возвращает тот же объект перечислителя.
         {
             return GetEnumerator();
         }
@@ -112,9 +112,9 @@ namespace Lab5VisualProg
                 currentIndex = -1;
             }
 
-            public T Current => dynamicArray.array[currentIndex];
+            public T Current => dynamicArray.array[currentIndex]; //возвращает текущий элемент коллекции DynamicArray<T>
 
-            object IEnumerator.Current => Current;
+            object IEnumerator.Current => Current; //возвращает текущий элемент коллекции в виде объекта типа object
 
             public bool MoveNext()
             {
