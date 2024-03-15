@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab4VisualProg")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1505e34fe9138e560e5025f72202422324e3b47a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1863fcec179076828d7c8c5a3b130fdeac333dea")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab4VisualProg")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab4VisualProg")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

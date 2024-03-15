@@ -6,7 +6,7 @@ namespace Lab5VisualProg
     using System.Collections.Generic;
 
 
-    public class DynamicArray<T> : IEnumerable<T>
+    public class DynamicArray<T> : IEnumerable<T> where T: IComparable<T>
     {
         private T[] array;
         private int count;
@@ -16,7 +16,8 @@ namespace Lab5VisualProg
 
         public DynamicArray()
         {
-            array = new T[20];
+            int deff = 20;
+            array = new T[deff];
         }
 
         public DynamicArray(int capacity)
@@ -27,7 +28,7 @@ namespace Lab5VisualProg
         public void Add(T element)
         {
             if (count == array.Length)
-                IncreaseCapacity(1);
+                IncreaseCapacity();
 
             array[count] = element;
             count++;
@@ -38,12 +39,13 @@ namespace Lab5VisualProg
             int elementsCount = CountElements(elements);
 
             if (count + elementsCount > array.Length)
-                IncreaseCapacity(elementsCount);
+                IncreaseCapacity();
 
             foreach (var element in elements)
             {
                 array[count] = element;
                 count++;
+
             }
         }
 
@@ -53,7 +55,7 @@ namespace Lab5VisualProg
                 throw new ArgumentOutOfRangeException(nameof(position));
 
             if (count == array.Length)
-                IncreaseCapacity(1);
+                IncreaseCapacity();
 
             for (int i = count; i > position; i--)
                 array[i] = array[i - 1];
@@ -72,15 +74,68 @@ namespace Lab5VisualProg
             count--;
         }
 
-        public void IncreaseCapacity(int n)
+        public void IncreaseCapacity()
         {
-            int newCapacity = array.Length + n;
+            int newCapacity = array.Length * 2;
             T[] newArray = new T[newCapacity];
             for (int i = 0; i < count; i++)
                 newArray[i] = array[i];
 
             array = newArray;
         }
+
+        //Доп
+
+        public void Sort()
+        {
+            Array.Sort(array, 0, count);
+        }
+
+        public List<int> BinarySearch(T obj)
+        {
+            List<int> indexes = new List<int>();
+
+            int left = 0;
+            int right = count - 1;
+
+            while (left <= right)
+            {
+                int mid = left + (right - left) / 2;
+
+                int comparisonResult = obj.CompareTo(array[mid]);
+
+                if (comparisonResult == 0)
+                {
+                    indexes.Add(mid); // Добавляем индекс найденного элемента
+                                      // Проверяем элементы слева от найденного элемента
+                    int temp = mid - 1;
+                    while (temp >= 0 && obj.CompareTo(array[temp]) == 0)
+                    {
+                        indexes.Add(temp);
+                        temp--;
+                    }
+                    // Проверяем элементы справа от найденного элемента
+                    temp = mid + 1;
+                    while (temp < count && obj.CompareTo(array[temp]) == 0)
+                    {
+                        indexes.Add(temp);
+                        temp++;
+                    }
+                    return indexes;
+                }
+                else if (comparisonResult < 0)
+                {
+                    right = mid - 1; // Искомый элемент находится слева от mid
+                }
+                else
+                {
+                    left = mid + 1; // Искомый элемент находится справа от mid
+                }
+            }
+
+            return indexes; // Элемент не найден
+        }
+
 
         public IEnumerator<T> GetEnumerator()
         {

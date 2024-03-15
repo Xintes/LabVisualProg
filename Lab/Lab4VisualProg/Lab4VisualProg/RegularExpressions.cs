@@ -27,9 +27,9 @@ namespace Lab4VisualProg
                 {
                     StringBuilder tmp = new StringBuilder(word);
                     (tmp[tmp.Length - 1], tmp[0]) = (tmp[0], tmp[tmp.Length - 1]);
-                    replacebleWord.Append(tmp+" ");
+                    replacebleWord.Append(tmp + " ");
                 }
-                else replacebleWord.Append(word+" ");
+                else replacebleWord.Append(word + " ");
             }
             return replacebleWord.ToString();
         }
@@ -80,9 +80,10 @@ namespace Lab4VisualProg
         {
             Regex hide = new Regex(@"(\+7|8)?(\d{3})(\d{3})(\d\d)(\d\d)");
             string words = Regex.Replace(phoneNum, $@"{hide}", " +7 ($2) $3-$4-$5");
-           
+
             return words;
         }
+
 
     }
 }

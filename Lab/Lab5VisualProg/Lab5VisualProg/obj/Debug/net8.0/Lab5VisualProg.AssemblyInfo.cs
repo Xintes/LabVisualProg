@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab5VisualProg")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9ec499d239686fae2376dc6fb56b302e7a64ca89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1863fcec179076828d7c8c5a3b130fdeac333dea")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab5VisualProg")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab5VisualProg")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
