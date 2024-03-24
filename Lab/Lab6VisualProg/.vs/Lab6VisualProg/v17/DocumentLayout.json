@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mrkyt\\source\\repos\\Lab6VisualProg\\",
+  "WorkspaceRootPath": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab6VisualProg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5F83749C-F5BC-4C13-8361-AF6E2DFF64D4}|run\\run.csproj|c:\\users\\mrkyt\\source\\repos\\lab6visualprog\\run\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F83749C-F5BC-4C13-8361-AF6E2DFF64D4}|run\\run.csproj|solutionrelative:run\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C87CEAC4-CDA0-482F-89D7-48BC80E1810B}|Lab6VisualProg\\Lab6VisualProg.csproj|c:\\users\\mrkyt\\desktop\\\u0443\u0447\u0451\u0431\u0430\\githun_uchoba\\virtualprog\\lab\\lab6visualprog\\lab6visualprog\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C87CEAC4-CDA0-482F-89D7-48BC80E1810B}|Lab6VisualProg\\Lab6VisualProg.csproj|solutionrelative:lab6visualprog\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C87CEAC4-CDA0-482F-89D7-48BC80E1810B}|Lab6VisualProg\\Lab6VisualProg.csproj|c:\\users\\mrkyt\\source\\repos\\lab6visualprog\\lab6visualprog\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C87CEAC4-CDA0-482F-89D7-48BC80E1810B}|Lab6VisualProg\\Lab6VisualProg.csproj|solutionrelative:lab6visualprog\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F83749C-F5BC-4C13-8361-AF6E2DFF64D4}|run\\run.csproj|c:\\users\\mrkyt\\desktop\\\u0443\u0447\u0451\u0431\u0430\\githun_uchoba\\virtualprog\\lab\\lab6visualprog\\run\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F83749C-F5BC-4C13-8361-AF6E2DFF64D4}|run\\run.csproj|solutionrelative:run\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mrkyt\\source\\repos\\Lab6VisualProg\\run\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab6VisualProg\\run\\Program.cs",
               "RelativeDocumentMoniker": "run\\Program.cs",
-              "ToolTip": "C:\\Users\\mrkyt\\source\\repos\\Lab6VisualProg\\run\\Program.cs",
+              "ToolTip": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab6VisualProg\\run\\Program.cs",
               "RelativeToolTip": "run\\Program.cs",
-              "ViewState": "AQIAABwAAAAAAAAAAAAAACMAAAAfAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-14T13:53:50.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\mrkyt\\source\\repos\\Lab6VisualProg\\Lab6VisualProg\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab6VisualProg\\Lab6VisualProg\\Class1.cs",
               "RelativeDocumentMoniker": "Lab6VisualProg\\Class1.cs",
-              "ToolTip": "C:\\Users\\mrkyt\\source\\repos\\Lab6VisualProg\\Lab6VisualProg\\Class1.cs",
+              "ToolTip": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab6VisualProg\\Lab6VisualProg\\Class1.cs",
               "RelativeToolTip": "Lab6VisualProg\\Class1.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAgwD0AAAAeAAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAApwFkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T20:13:08.405Z",
               "EditorCaption": ""

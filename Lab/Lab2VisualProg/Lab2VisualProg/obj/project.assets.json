@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mrkyt\\source\\repos\\Lab2VisualProg\\Lab2VisualProg\\Student.csproj",
+      "projectUniqueName": "C:\\Users\\mrkyt\\Desktop\\Учёба\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab2VisualProg\\Lab2VisualProg\\Student.csproj",
       "projectName": "Student",
-      "projectPath": "C:\\Users\\mrkyt\\source\\repos\\Lab2VisualProg\\Lab2VisualProg\\Student.csproj",
+      "projectPath": "C:\\Users\\mrkyt\\Desktop\\Учёба\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab2VisualProg\\Lab2VisualProg\\Student.csproj",
       "packagesPath": "C:\\Users\\mrkyt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mrkyt\\source\\repos\\Lab2VisualProg\\Lab2VisualProg\\obj\\",
+      "outputPath": "C:\\Users\\mrkyt\\Desktop\\Учёба\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab2VisualProg\\Lab2VisualProg\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

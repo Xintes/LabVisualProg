@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab5VisualProg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{15BB0465-85DC-4319-8845-2F6DAA5E6451}|Run\\Run.csproj|c:\\users\\mrkyt\\desktop\\\u0443\u0447\u0451\u0431\u0430\\githun_uchoba\\virtualprog\\lab\\lab5visualprog\\run\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{15BB0465-85DC-4319-8845-2F6DAA5E6451}|Run\\Run.csproj|solutionrelative:run\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7B58CB31-C3D0-48F6-8441-8667173F21F2}|Lab5VisualProg\\Lab5VisualProg.csproj|c:\\users\\mrkyt\\desktop\\\u0443\u0447\u0451\u0431\u0430\\githun_uchoba\\virtualprog\\lab\\lab5visualprog\\lab5visualprog\\dynamicarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B58CB31-C3D0-48F6-8441-8667173F21F2}|Lab5VisualProg\\Lab5VisualProg.csproj|solutionrelative:lab5visualprog\\dynamicarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15BB0465-85DC-4319-8845-2F6DAA5E6451}|Run\\Run.csproj|c:\\users\\mrkyt\\desktop\\\u0443\u0447\u0451\u0431\u0430\\githun_uchoba\\virtualprog\\lab\\lab5visualprog\\run\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15BB0465-85DC-4319-8845-2F6DAA5E6451}|Run\\Run.csproj|solutionrelative:run\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,28 +26,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab5VisualProg\\Run\\Program.cs",
               "RelativeDocumentMoniker": "Run\\Program.cs",
               "ToolTip": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab5VisualProg\\Run\\Program.cs",
               "RelativeToolTip": "Run\\Program.cs",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAkwGIAAAABAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAkwGIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-12T14:10:16.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DynamicArray.cs",
               "DocumentMoniker": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab5VisualProg\\Lab5VisualProg\\DynamicArray.cs",
               "RelativeDocumentMoniker": "Lab5VisualProg\\DynamicArray.cs",
               "ToolTip": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab5VisualProg\\Lab5VisualProg\\DynamicArray.cs",
               "RelativeToolTip": "Lab5VisualProg\\DynamicArray.cs",
-              "ViewState": "AQIAAKsAAAAAAAAAAAA9wL8AAAAAAAAA",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAzwL8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T14:10:14.643Z"
+              "WhenOpened": "2024-03-12T14:10:14.643Z",
+              "EditorCaption": ""
             }
           ]
         }

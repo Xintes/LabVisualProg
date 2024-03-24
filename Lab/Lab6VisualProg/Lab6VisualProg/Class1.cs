@@ -27,7 +27,22 @@ namespace Lab6VisualProg
       
         /////////////////////////// 6
         
-        public void Filter(Func<T, bool> filterFunc)
+        //public void Filter(Func<T, bool> filterFunc)
+        //{
+        //    int currentIndex = 0;
+        //    for (int i = 0; i < count; i++)
+        //    {
+        //        if (filterFunc(array[i]))
+        //        {
+        //            array[currentIndex] = array[i];
+        //            currentIndex++;
+        //        }
+        //    }
+
+        //    count = currentIndex;
+        //}
+
+        public void Filter(Predicate<T> filterFunc)
         {
             int currentIndex = 0;
             for (int i = 0; i < count; i++)
@@ -72,6 +87,7 @@ namespace Lab6VisualProg
             array[count] = element;
             count++;
         }
+
 
         public void Add(IEnumerable<T> elements)
         {

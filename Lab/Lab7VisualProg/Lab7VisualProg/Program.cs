@@ -1,0 +1,2 @@
+﻿using MyEvent;
+Event.SecondDemo();

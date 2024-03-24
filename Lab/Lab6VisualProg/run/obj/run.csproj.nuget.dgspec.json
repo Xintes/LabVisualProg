@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mrkyt\\source\\repos\\Lab6VisualProg\\run\\run.csproj": {}
+    "C:\\Users\\mrkyt\\Desktop\\Учёба\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab6VisualProg\\run\\run.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mrkyt\\source\\repos\\Lab6VisualProg\\Lab6VisualProg\\Lab6VisualProg.csproj": {
+    "C:\\Users\\mrkyt\\Desktop\\Учёба\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab6VisualProg\\Lab6VisualProg\\Lab6VisualProg.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrkyt\\source\\repos\\Lab6VisualProg\\Lab6VisualProg\\Lab6VisualProg.csproj",
+        "projectUniqueName": "C:\\Users\\mrkyt\\Desktop\\Учёба\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab6VisualProg\\Lab6VisualProg\\Lab6VisualProg.csproj",
         "projectName": "Lab6VisualProg",
-        "projectPath": "C:\\Users\\mrkyt\\source\\repos\\Lab6VisualProg\\Lab6VisualProg\\Lab6VisualProg.csproj",
+        "projectPath": "C:\\Users\\mrkyt\\Desktop\\Учёба\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab6VisualProg\\Lab6VisualProg\\Lab6VisualProg.csproj",
         "packagesPath": "C:\\Users\\mrkyt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrkyt\\source\\repos\\Lab6VisualProg\\Lab6VisualProg\\obj\\",
+        "outputPath": "C:\\Users\\mrkyt\\Desktop\\Учёба\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab6VisualProg\\Lab6VisualProg\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\mrkyt\\source\\repos\\Lab6VisualProg\\run\\run.csproj": {
+    "C:\\Users\\mrkyt\\Desktop\\Учёба\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab6VisualProg\\run\\run.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrkyt\\source\\repos\\Lab6VisualProg\\run\\run.csproj",
+        "projectUniqueName": "C:\\Users\\mrkyt\\Desktop\\Учёба\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab6VisualProg\\run\\run.csproj",
         "projectName": "run",
-        "projectPath": "C:\\Users\\mrkyt\\source\\repos\\Lab6VisualProg\\run\\run.csproj",
+        "projectPath": "C:\\Users\\mrkyt\\Desktop\\Учёба\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab6VisualProg\\run\\run.csproj",
         "packagesPath": "C:\\Users\\mrkyt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrkyt\\source\\repos\\Lab6VisualProg\\run\\obj\\",
+        "outputPath": "C:\\Users\\mrkyt\\Desktop\\Учёба\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab6VisualProg\\run\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -98,8 +98,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\mrkyt\\source\\repos\\Lab6VisualProg\\Lab6VisualProg\\Lab6VisualProg.csproj": {
-                "projectPath": "C:\\Users\\mrkyt\\source\\repos\\Lab6VisualProg\\Lab6VisualProg\\Lab6VisualProg.csproj"
+              "C:\\Users\\mrkyt\\Desktop\\Учёба\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab6VisualProg\\Lab6VisualProg\\Lab6VisualProg.csproj": {
+                "projectPath": "C:\\Users\\mrkyt\\Desktop\\Учёба\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab6VisualProg\\Lab6VisualProg\\Lab6VisualProg.csproj"
               }
             }
           }

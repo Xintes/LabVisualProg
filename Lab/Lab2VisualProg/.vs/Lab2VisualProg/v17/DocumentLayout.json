@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mrkyt\\source\\repos\\Lab2VisualProg\\",
+  "WorkspaceRootPath": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab2VisualProg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F632CAC-51B3-4072-9BC5-C3A3B9EB8A40}|Lab2VisualProg\\Student.csproj|c:\\users\\mrkyt\\source\\repos\\lab2visualprog\\lab2visualprog\\rashirenie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F632CAC-51B3-4072-9BC5-C3A3B9EB8A40}|Lab2VisualProg\\Student.csproj|solutionrelative:lab2visualprog\\rashirenie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F632CAC-51B3-4072-9BC5-C3A3B9EB8A40}|Lab2VisualProg\\Student.csproj|c:\\users\\mrkyt\\source\\repos\\lab2visualprog\\lab2visualprog\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F632CAC-51B3-4072-9BC5-C3A3B9EB8A40}|Lab2VisualProg\\Student.csproj|solutionrelative:lab2visualprog\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F632CAC-51B3-4072-9BC5-C3A3B9EB8A40}|Lab2VisualProg\\Student.csproj|c:\\users\\mrkyt\\source\\repos\\lab2visualprog\\lab2visualprog\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F632CAC-51B3-4072-9BC5-C3A3B9EB8A40}|Lab2VisualProg\\Student.csproj|c:\\users\\mrkyt\\desktop\\\u0443\u0447\u0451\u0431\u0430\\githun_uchoba\\virtualprog\\lab\\lab2visualprog\\lab2visualprog\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F632CAC-51B3-4072-9BC5-C3A3B9EB8A40}|Lab2VisualProg\\Student.csproj|solutionrelative:lab2visualprog\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FDA324C-64EA-4E0C-BEB2-7822A43D8AE9}|Lab2Visual\\Lab2Visual.csproj|c:\\users\\mrkyt\\source\\repos\\lab2visualprog\\lab2visual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9F632CAC-51B3-4072-9BC5-C3A3B9EB8A40}|Lab2VisualProg\\Student.csproj|c:\\users\\mrkyt\\desktop\\\u0443\u0447\u0451\u0431\u0430\\githun_uchoba\\virtualprog\\lab\\lab2visualprog\\lab2visualprog\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F632CAC-51B3-4072-9BC5-C3A3B9EB8A40}|Lab2VisualProg\\Student.csproj|solutionrelative:lab2visualprog\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F632CAC-51B3-4072-9BC5-C3A3B9EB8A40}|Lab2VisualProg\\Student.csproj|c:\\users\\mrkyt\\desktop\\\u0443\u0447\u0451\u0431\u0430\\githun_uchoba\\virtualprog\\lab\\lab2visualprog\\lab2visualprog\\rashirenie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F632CAC-51B3-4072-9BC5-C3A3B9EB8A40}|Lab2VisualProg\\Student.csproj|solutionrelative:lab2visualprog\\rashirenie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FDA324C-64EA-4E0C-BEB2-7822A43D8AE9}|Lab2Visual\\Lab2Visual.csproj|c:\\users\\mrkyt\\desktop\\\u0443\u0447\u0451\u0431\u0430\\githun_uchoba\\virtualprog\\lab\\lab2visualprog\\lab2visual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2FDA324C-64EA-4E0C-BEB2-7822A43D8AE9}|Lab2Visual\\Lab2Visual.csproj|solutionrelative:lab2visual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -36,22 +36,21 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mrkyt\\source\\repos\\Lab2VisualProg\\Lab2Visual\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab2VisualProg\\Lab2Visual\\Program.cs",
               "RelativeDocumentMoniker": "Lab2Visual\\Program.cs",
-              "ToolTip": "C:\\Users\\mrkyt\\source\\repos\\Lab2VisualProg\\Lab2Visual\\Program.cs",
+              "ToolTip": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab2VisualProg\\Lab2Visual\\Program.cs",
               "RelativeToolTip": "Lab2Visual\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-13T15:16:13.84Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-13T15:16:13.84Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Rashirenie.cs",
-              "DocumentMoniker": "C:\\Users\\mrkyt\\source\\repos\\Lab2VisualProg\\Lab2VisualProg\\Rashirenie.cs",
+              "DocumentMoniker": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab2VisualProg\\Lab2VisualProg\\Rashirenie.cs",
               "RelativeDocumentMoniker": "Lab2VisualProg\\Rashirenie.cs",
-              "ToolTip": "C:\\Users\\mrkyt\\source\\repos\\Lab2VisualProg\\Lab2VisualProg\\Rashirenie.cs",
+              "ToolTip": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab2VisualProg\\Lab2VisualProg\\Rashirenie.cs",
               "RelativeToolTip": "Lab2VisualProg\\Rashirenie.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,9 +61,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Group.cs",
-              "DocumentMoniker": "C:\\Users\\mrkyt\\source\\repos\\Lab2VisualProg\\Lab2VisualProg\\Group.cs",
+              "DocumentMoniker": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab2VisualProg\\Lab2VisualProg\\Group.cs",
               "RelativeDocumentMoniker": "Lab2VisualProg\\Group.cs",
-              "ToolTip": "C:\\Users\\mrkyt\\source\\repos\\Lab2VisualProg\\Lab2VisualProg\\Group.cs",
+              "ToolTip": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab2VisualProg\\Lab2VisualProg\\Group.cs",
               "RelativeToolTip": "Lab2VisualProg\\Group.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,13 +72,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\mrkyt\\source\\repos\\Lab2VisualProg\\Lab2VisualProg\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab2VisualProg\\Lab2VisualProg\\Student.cs",
               "RelativeDocumentMoniker": "Lab2VisualProg\\Student.cs",
-              "ToolTip": "C:\\Users\\mrkyt\\source\\repos\\Lab2VisualProg\\Lab2VisualProg\\Student.cs",
+              "ToolTip": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab2VisualProg\\Lab2VisualProg\\Student.cs",
               "RelativeToolTip": "Lab2VisualProg\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAMAAAAYAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-13T14:59:02.894Z",
               "EditorCaption": ""
