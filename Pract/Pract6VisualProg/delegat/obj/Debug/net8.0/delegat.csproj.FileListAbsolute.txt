@@ -1,0 +1,11 @@
+C:\Users\mrkyt\source\repos\Pract6VisualProg\delegat\bin\Debug\net8.0\delegat.deps.json
+C:\Users\mrkyt\source\repos\Pract6VisualProg\delegat\bin\Debug\net8.0\delegat.dll
+C:\Users\mrkyt\source\repos\Pract6VisualProg\delegat\bin\Debug\net8.0\delegat.pdb
+C:\Users\mrkyt\source\repos\Pract6VisualProg\delegat\obj\Debug\net8.0\delegat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrkyt\source\repos\Pract6VisualProg\delegat\obj\Debug\net8.0\delegat.AssemblyInfoInputs.cache
+C:\Users\mrkyt\source\repos\Pract6VisualProg\delegat\obj\Debug\net8.0\delegat.AssemblyInfo.cs
+C:\Users\mrkyt\source\repos\Pract6VisualProg\delegat\obj\Debug\net8.0\delegat.csproj.CoreCompileInputs.cache
+C:\Users\mrkyt\source\repos\Pract6VisualProg\delegat\obj\Debug\net8.0\delegat.dll
+C:\Users\mrkyt\source\repos\Pract6VisualProg\delegat\obj\Debug\net8.0\refint\delegat.dll
+C:\Users\mrkyt\source\repos\Pract6VisualProg\delegat\obj\Debug\net8.0\delegat.pdb
+C:\Users\mrkyt\source\repos\Pract6VisualProg\delegat\obj\Debug\net8.0\ref\delegat.dll

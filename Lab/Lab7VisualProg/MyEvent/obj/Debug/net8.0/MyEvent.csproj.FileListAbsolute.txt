@@ -9,3 +9,15 @@ C:\Users\mrkyt\source\repos\Lab7VisualProg\MyEvent\obj\Debug\net8.0\MyEvent.dll
 C:\Users\mrkyt\source\repos\Lab7VisualProg\MyEvent\obj\Debug\net8.0\refint\MyEvent.dll
 C:\Users\mrkyt\source\repos\Lab7VisualProg\MyEvent\obj\Debug\net8.0\MyEvent.pdb
 C:\Users\mrkyt\source\repos\Lab7VisualProg\MyEvent\obj\Debug\net8.0\ref\MyEvent.dll
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab7VisualProg\MyEvent\bin\Debug\net8.0\MyEvent.deps.json
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab7VisualProg\MyEvent\bin\Debug\net8.0\MyEvent.dll
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab7VisualProg\MyEvent\bin\Debug\net8.0\MyEvent.pdb
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab7VisualProg\MyEvent\obj\Debug\net8.0\MyEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab7VisualProg\MyEvent\obj\Debug\net8.0\MyEvent.AssemblyInfoInputs.cache
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab7VisualProg\MyEvent\obj\Debug\net8.0\MyEvent.AssemblyInfo.cs
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab7VisualProg\MyEvent\obj\Debug\net8.0\MyEvent.csproj.CoreCompileInputs.cache
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab7VisualProg\MyEvent\obj\Debug\net8.0\MyEvent.sourcelink.json
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab7VisualProg\MyEvent\obj\Debug\net8.0\MyEvent.dll
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab7VisualProg\MyEvent\obj\Debug\net8.0\refint\MyEvent.dll
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab7VisualProg\MyEvent\obj\Debug\net8.0\MyEvent.pdb
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab7VisualProg\MyEvent\obj\Debug\net8.0\ref\MyEvent.dll

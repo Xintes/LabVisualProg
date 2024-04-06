@@ -1,22 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mrkyt\\source\\repos\\Lab7VisualProg\\",
+  "WorkspaceRootPath": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab7VisualProg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5533C604-1B49-410E-92AB-D8720D8232B0}|Lab7VisualProg\\Lab7VisualProg.csproj|c:\\users\\mrkyt\\source\\repos\\lab7visualprog\\lab7visualprog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5533C604-1B49-410E-92AB-D8720D8232B0}|Lab7VisualProg\\Lab7VisualProg.csproj|solutionrelative:lab7visualprog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{111F8DBD-47BF-4F25-B9BD-48D42B82A390}|MyEvent\\MyEvent.csproj|c:\\users\\mrkyt\\desktop\\\u0443\u0447\u0451\u0431\u0430\\githun_uchoba\\virtualprog\\lab\\lab7visualprog\\myevent\\mushroompicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111F8DBD-47BF-4F25-B9BD-48D42B82A390}|MyEvent\\MyEvent.csproj|solutionrelative:myevent\\mushroompicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{111F8DBD-47BF-4F25-B9BD-48D42B82A390}|MyEvent\\MyEvent.csproj|c:\\users\\mrkyt\\source\\repos\\lab7visualprog\\myevent\\mushroomspicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{111F8DBD-47BF-4F25-B9BD-48D42B82A390}|MyEvent\\MyEvent.csproj|solutionrelative:myevent\\mushroomspicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{111F8DBD-47BF-4F25-B9BD-48D42B82A390}|MyEvent\\MyEvent.csproj|c:\\users\\mrkyt\\source\\repos\\lab7visualprog\\myevent\\mushroomsfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{111F8DBD-47BF-4F25-B9BD-48D42B82A390}|MyEvent\\MyEvent.csproj|solutionrelative:myevent\\mushroomsfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{111F8DBD-47BF-4F25-B9BD-48D42B82A390}|MyEvent\\MyEvent.csproj|c:\\users\\mrkyt\\source\\repos\\lab7visualprog\\myevent\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{111F8DBD-47BF-4F25-B9BD-48D42B82A390}|MyEvent\\MyEvent.csproj|c:\\users\\mrkyt\\desktop\\\u0443\u0447\u0451\u0431\u0430\\githun_uchoba\\virtualprog\\lab\\lab7visualprog\\myevent\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{111F8DBD-47BF-4F25-B9BD-48D42B82A390}|MyEvent\\MyEvent.csproj|solutionrelative:myevent\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5533C604-1B49-410E-92AB-D8720D8232B0}|Lab7VisualProg\\Lab7VisualProg.csproj|c:\\users\\mrkyt\\desktop\\\u0443\u0447\u0451\u0431\u0430\\githun_uchoba\\virtualprog\\lab\\lab7visualprog\\lab7visualprog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5533C604-1B49-410E-92AB-D8720D8232B0}|Lab7VisualProg\\Lab7VisualProg.csproj|solutionrelative:lab7visualprog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,55 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\mrkyt\\source\\repos\\Lab7VisualProg\\MyEvent\\Event.cs",
-              "RelativeDocumentMoniker": "MyEvent\\Event.cs",
-              "ToolTip": "C:\\Users\\mrkyt\\source\\repos\\Lab7VisualProg\\MyEvent\\Event.cs",
-              "RelativeToolTip": "MyEvent\\Event.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAARAAAA",
+              "DocumentIndex": 0,
+              "Title": "MushroomPicker.cs",
+              "DocumentMoniker": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab7VisualProg\\MyEvent\\MushroomPicker.cs",
+              "RelativeDocumentMoniker": "MyEvent\\MushroomPicker.cs",
+              "ToolTip": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab7VisualProg\\MyEvent\\MushroomPicker.cs",
+              "RelativeToolTip": "MyEvent\\MushroomPicker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T14:26:29.256Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MushroomsField.cs",
-              "DocumentMoniker": "C:\\Users\\mrkyt\\source\\repos\\Lab7VisualProg\\MyEvent\\MushroomsField.cs",
-              "RelativeDocumentMoniker": "MyEvent\\MushroomsField.cs",
-              "ToolTip": "C:\\Users\\mrkyt\\source\\repos\\Lab7VisualProg\\MyEvent\\MushroomsField.cs",
-              "RelativeToolTip": "MyEvent\\MushroomsField.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T14:40:48.704Z",
+              "WhenOpened": "2024-03-26T16:25:41.393Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "mushroomsPicker.cs",
-              "DocumentMoniker": "C:\\Users\\mrkyt\\source\\repos\\Lab7VisualProg\\MyEvent\\mushroomsPicker.cs",
-              "RelativeDocumentMoniker": "MyEvent\\mushroomsPicker.cs",
-              "ToolTip": "C:\\Users\\mrkyt\\source\\repos\\Lab7VisualProg\\MyEvent\\mushroomsPicker.cs",
-              "RelativeToolTip": "MyEvent\\mushroomsPicker.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab7VisualProg\\MyEvent\\Event.cs",
+              "RelativeDocumentMoniker": "MyEvent\\Event.cs",
+              "ToolTip": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab7VisualProg\\MyEvent\\Event.cs",
+              "RelativeToolTip": "MyEvent\\Event.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-24T14:41:27.657Z",
+              "WhenOpened": "2024-03-26T14:22:22.054Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mrkyt\\source\\repos\\Lab7VisualProg\\Lab7VisualProg\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab7VisualProg\\Lab7VisualProg\\Program.cs",
               "RelativeDocumentMoniker": "Lab7VisualProg\\Program.cs",
-              "ToolTip": "C:\\Users\\mrkyt\\source\\repos\\Lab7VisualProg\\Lab7VisualProg\\Program.cs",
+              "ToolTip": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab7VisualProg\\Lab7VisualProg\\Program.cs",
               "RelativeToolTip": "Lab7VisualProg\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-21T14:25:46.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T14:22:20.672Z"
             }
           ]
         }

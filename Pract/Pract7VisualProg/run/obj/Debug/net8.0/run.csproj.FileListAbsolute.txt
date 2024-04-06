@@ -1,0 +1,5 @@
+C:\Users\mrkyt\source\repos\Pract7VisualProg\run\obj\Debug\net8.0\run.csproj.AssemblyReference.cache
+C:\Users\mrkyt\source\repos\Pract7VisualProg\run\obj\Debug\net8.0\run.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrkyt\source\repos\Pract7VisualProg\run\obj\Debug\net8.0\run.AssemblyInfoInputs.cache
+C:\Users\mrkyt\source\repos\Pract7VisualProg\run\obj\Debug\net8.0\run.AssemblyInfo.cs
+C:\Users\mrkyt\source\repos\Pract7VisualProg\run\obj\Debug\net8.0\run.csproj.CoreCompileInputs.cache

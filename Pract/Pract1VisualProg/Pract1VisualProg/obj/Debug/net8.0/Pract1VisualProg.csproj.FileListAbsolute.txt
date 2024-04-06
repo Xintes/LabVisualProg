@@ -1,0 +1,4 @@
+C:\Users\mrkyt\source\repos\Pract1VisualProg\Pract1VisualProg\obj\Debug\net8.0\Pract1VisualProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrkyt\source\repos\Pract1VisualProg\Pract1VisualProg\obj\Debug\net8.0\Pract1VisualProg.AssemblyInfoInputs.cache
+C:\Users\mrkyt\source\repos\Pract1VisualProg\Pract1VisualProg\obj\Debug\net8.0\Pract1VisualProg.AssemblyInfo.cs
+C:\Users\mrkyt\source\repos\Pract1VisualProg\Pract1VisualProg\obj\Debug\net8.0\Pract1VisualProg.csproj.CoreCompileInputs.cache

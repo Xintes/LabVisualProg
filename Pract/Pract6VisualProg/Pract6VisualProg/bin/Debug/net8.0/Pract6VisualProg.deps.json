@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Pract6VisualProg/1.0.0": {
+        "dependencies": {
+          "delegat": "1.0.0"
+        },
+        "runtime": {
+          "Pract6VisualProg.dll": {}
+        }
+      },
+      "delegat/1.0.0": {
+        "runtime": {
+          "delegat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pract6VisualProg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "delegat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

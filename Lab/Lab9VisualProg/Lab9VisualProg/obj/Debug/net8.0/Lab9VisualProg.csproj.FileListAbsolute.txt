@@ -1,0 +1,11 @@
+C:\Users\mrkyt\source\repos\Lab9VisualProg\Lab9VisualProg\bin\Debug\net8.0\Lab9VisualProg.deps.json
+C:\Users\mrkyt\source\repos\Lab9VisualProg\Lab9VisualProg\bin\Debug\net8.0\Lab9VisualProg.dll
+C:\Users\mrkyt\source\repos\Lab9VisualProg\Lab9VisualProg\bin\Debug\net8.0\Lab9VisualProg.pdb
+C:\Users\mrkyt\source\repos\Lab9VisualProg\Lab9VisualProg\obj\Debug\net8.0\Lab9VisualProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrkyt\source\repos\Lab9VisualProg\Lab9VisualProg\obj\Debug\net8.0\Lab9VisualProg.AssemblyInfoInputs.cache
+C:\Users\mrkyt\source\repos\Lab9VisualProg\Lab9VisualProg\obj\Debug\net8.0\Lab9VisualProg.AssemblyInfo.cs
+C:\Users\mrkyt\source\repos\Lab9VisualProg\Lab9VisualProg\obj\Debug\net8.0\Lab9VisualProg.csproj.CoreCompileInputs.cache
+C:\Users\mrkyt\source\repos\Lab9VisualProg\Lab9VisualProg\obj\Debug\net8.0\Lab9VisualProg.dll
+C:\Users\mrkyt\source\repos\Lab9VisualProg\Lab9VisualProg\obj\Debug\net8.0\refint\Lab9VisualProg.dll
+C:\Users\mrkyt\source\repos\Lab9VisualProg\Lab9VisualProg\obj\Debug\net8.0\Lab9VisualProg.pdb
+C:\Users\mrkyt\source\repos\Lab9VisualProg\Lab9VisualProg\obj\Debug\net8.0\ref\Lab9VisualProg.dll

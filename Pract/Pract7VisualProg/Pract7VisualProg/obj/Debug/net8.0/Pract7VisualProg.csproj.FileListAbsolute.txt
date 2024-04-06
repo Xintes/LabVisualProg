@@ -1,0 +1,14 @@
+C:\Users\mrkyt\source\repos\Pract7VisualProg\Pract7VisualProg\bin\Debug\net8.0\Pract7VisualProg.exe
+C:\Users\mrkyt\source\repos\Pract7VisualProg\Pract7VisualProg\bin\Debug\net8.0\Pract7VisualProg.deps.json
+C:\Users\mrkyt\source\repos\Pract7VisualProg\Pract7VisualProg\bin\Debug\net8.0\Pract7VisualProg.runtimeconfig.json
+C:\Users\mrkyt\source\repos\Pract7VisualProg\Pract7VisualProg\bin\Debug\net8.0\Pract7VisualProg.dll
+C:\Users\mrkyt\source\repos\Pract7VisualProg\Pract7VisualProg\bin\Debug\net8.0\Pract7VisualProg.pdb
+C:\Users\mrkyt\source\repos\Pract7VisualProg\Pract7VisualProg\obj\Debug\net8.0\Pract7VisualProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrkyt\source\repos\Pract7VisualProg\Pract7VisualProg\obj\Debug\net8.0\Pract7VisualProg.AssemblyInfoInputs.cache
+C:\Users\mrkyt\source\repos\Pract7VisualProg\Pract7VisualProg\obj\Debug\net8.0\Pract7VisualProg.AssemblyInfo.cs
+C:\Users\mrkyt\source\repos\Pract7VisualProg\Pract7VisualProg\obj\Debug\net8.0\Pract7VisualProg.csproj.CoreCompileInputs.cache
+C:\Users\mrkyt\source\repos\Pract7VisualProg\Pract7VisualProg\obj\Debug\net8.0\Pract7VisualProg.dll
+C:\Users\mrkyt\source\repos\Pract7VisualProg\Pract7VisualProg\obj\Debug\net8.0\refint\Pract7VisualProg.dll
+C:\Users\mrkyt\source\repos\Pract7VisualProg\Pract7VisualProg\obj\Debug\net8.0\Pract7VisualProg.pdb
+C:\Users\mrkyt\source\repos\Pract7VisualProg\Pract7VisualProg\obj\Debug\net8.0\Pract7VisualProg.genruntimeconfig.cache
+C:\Users\mrkyt\source\repos\Pract7VisualProg\Pract7VisualProg\obj\Debug\net8.0\ref\Pract7VisualProg.dll

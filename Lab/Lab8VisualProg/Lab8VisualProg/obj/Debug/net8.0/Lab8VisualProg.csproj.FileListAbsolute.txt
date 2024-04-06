@@ -1,0 +1,11 @@
+C:\Users\mrkyt\source\repos\Lab8VisualProg\Lab8VisualProg\bin\Debug\net8.0\Lab8VisualProg.deps.json
+C:\Users\mrkyt\source\repos\Lab8VisualProg\Lab8VisualProg\bin\Debug\net8.0\Lab8VisualProg.dll
+C:\Users\mrkyt\source\repos\Lab8VisualProg\Lab8VisualProg\bin\Debug\net8.0\Lab8VisualProg.pdb
+C:\Users\mrkyt\source\repos\Lab8VisualProg\Lab8VisualProg\obj\Debug\net8.0\Lab8VisualProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrkyt\source\repos\Lab8VisualProg\Lab8VisualProg\obj\Debug\net8.0\Lab8VisualProg.AssemblyInfoInputs.cache
+C:\Users\mrkyt\source\repos\Lab8VisualProg\Lab8VisualProg\obj\Debug\net8.0\Lab8VisualProg.AssemblyInfo.cs
+C:\Users\mrkyt\source\repos\Lab8VisualProg\Lab8VisualProg\obj\Debug\net8.0\Lab8VisualProg.csproj.CoreCompileInputs.cache
+C:\Users\mrkyt\source\repos\Lab8VisualProg\Lab8VisualProg\obj\Debug\net8.0\Lab8VisualProg.dll
+C:\Users\mrkyt\source\repos\Lab8VisualProg\Lab8VisualProg\obj\Debug\net8.0\refint\Lab8VisualProg.dll
+C:\Users\mrkyt\source\repos\Lab8VisualProg\Lab8VisualProg\obj\Debug\net8.0\Lab8VisualProg.pdb
+C:\Users\mrkyt\source\repos\Lab8VisualProg\Lab8VisualProg\obj\Debug\net8.0\ref\Lab8VisualProg.dll

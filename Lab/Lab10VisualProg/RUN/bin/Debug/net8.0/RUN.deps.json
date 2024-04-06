@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RUN/1.0.0": {
+        "dependencies": {
+          "Lab10VisualProg": "1.0.0"
+        },
+        "runtime": {
+          "RUN.dll": {}
+        }
+      },
+      "Lab10VisualProg/1.0.0": {
+        "runtime": {
+          "Lab10VisualProg.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RUN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lab10VisualProg/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

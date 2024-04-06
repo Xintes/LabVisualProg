@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab4VisualProg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{003F3ECC-835C-4B7D-A639-8A83B538DFC4}|Lab4VisualProg\\Lab4VisualProg.csproj|c:\\users\\mrkyt\\desktop\\\u0443\u0447\u0451\u0431\u0430\\githun_uchoba\\virtualprog\\lab\\lab4visualprog\\lab4visualprog\\regularexpressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{003F3ECC-835C-4B7D-A639-8A83B538DFC4}|Lab4VisualProg\\Lab4VisualProg.csproj|solutionrelative:lab4visualprog\\regularexpressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B2490C65-FDCA-4EFE-B58A-FB2D7155774F}|Run\\Run.csproj|c:\\users\\mrkyt\\desktop\\\u0443\u0447\u0451\u0431\u0430\\githun_uchoba\\virtualprog\\lab\\lab4visualprog\\run\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2490C65-FDCA-4EFE-B58A-FB2D7155774F}|Run\\Run.csproj|solutionrelative:run\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{003F3ECC-835C-4B7D-A639-8A83B538DFC4}|Lab4VisualProg\\Lab4VisualProg.csproj|c:\\users\\mrkyt\\desktop\\\u0443\u0447\u0451\u0431\u0430\\githun_uchoba\\virtualprog\\lab\\lab4visualprog\\lab4visualprog\\regularexpressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{003F3ECC-835C-4B7D-A639-8A83B538DFC4}|Lab4VisualProg\\Lab4VisualProg.csproj|solutionrelative:lab4visualprog\\regularexpressions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,19 +26,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab4VisualProg\\Run\\Program.cs",
               "RelativeDocumentMoniker": "Run\\Program.cs",
               "ToolTip": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab4VisualProg\\Run\\Program.cs",
               "RelativeToolTip": "Run\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-12T14:08:21.146Z"
+              "WhenOpened": "2024-03-12T14:08:21.146Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "RegularExpressions.cs",
               "DocumentMoniker": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab4VisualProg\\Lab4VisualProg\\RegularExpressions.cs",
               "RelativeDocumentMoniker": "Lab4VisualProg\\RegularExpressions.cs",
