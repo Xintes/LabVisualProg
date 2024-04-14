@@ -9,3 +9,15 @@ C:\Users\mrkyt\source\repos\Lab10VisualProg\Lab10VisualProg\obj\Debug\net8.0\Lab
 C:\Users\mrkyt\source\repos\Lab10VisualProg\Lab10VisualProg\obj\Debug\net8.0\refint\Lab10VisualProg.dll
 C:\Users\mrkyt\source\repos\Lab10VisualProg\Lab10VisualProg\obj\Debug\net8.0\Lab10VisualProg.pdb
 C:\Users\mrkyt\source\repos\Lab10VisualProg\Lab10VisualProg\obj\Debug\net8.0\ref\Lab10VisualProg.dll
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab10VisualProg\Lab10VisualProg\bin\Debug\net8.0\Lab10VisualProg.deps.json
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab10VisualProg\Lab10VisualProg\bin\Debug\net8.0\Lab10VisualProg.dll
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab10VisualProg\Lab10VisualProg\bin\Debug\net8.0\Lab10VisualProg.pdb
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab10VisualProg\Lab10VisualProg\obj\Debug\net8.0\Lab10VisualProg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab10VisualProg\Lab10VisualProg\obj\Debug\net8.0\Lab10VisualProg.AssemblyInfoInputs.cache
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab10VisualProg\Lab10VisualProg\obj\Debug\net8.0\Lab10VisualProg.AssemblyInfo.cs
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab10VisualProg\Lab10VisualProg\obj\Debug\net8.0\Lab10VisualProg.csproj.CoreCompileInputs.cache
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab10VisualProg\Lab10VisualProg\obj\Debug\net8.0\Lab10VisualProg.sourcelink.json
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab10VisualProg\Lab10VisualProg\obj\Debug\net8.0\Lab10VisualProg.dll
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab10VisualProg\Lab10VisualProg\obj\Debug\net8.0\refint\Lab10VisualProg.dll
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab10VisualProg\Lab10VisualProg\obj\Debug\net8.0\Lab10VisualProg.pdb
+C:\Users\mrkyt\Desktop\Учёба\GitHun_UchoBA\VirtualProg\Lab\Lab10VisualProg\Lab10VisualProg\obj\Debug\net8.0\ref\Lab10VisualProg.dll

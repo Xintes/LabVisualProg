@@ -1,29 +1,48 @@
 ﻿using Lab9VisualProg;
-
-var numbers = new List<int> { 1, 2, 3, 4, 5 };
-Console.WriteLine("Коллеция:");
-foreach (var group in numbers)
+using System;
+// ПSSример использования MyAll:
+var numbers = new List<int> {4, 5 };
+int value = 3;
+bool allArePositive = numbers.MyAll(x => x > value); // Вернет true
+if (allArePositive)
 {
-    Console.Write($"{group} ");
+    Console.WriteLine($"В коллекции все числа > {value}");
 }
+else Console.WriteLine($"В коллекции не все числа > {value}");
 
-var filteredNumbers = numbers.Filter(x => x % 2 == 0);
-Console.WriteLine("\n\nОтфильтрованные числа: " + string.Join(", ", filteredNumbers));
 
-var doubledNumbers = numbers.Map(x => x * 2);
-Console.WriteLine("\nИзменённые числа: " + string.Join(", ", doubledNumbers));
 
-var sum = numbers.Reduce((x, y) => x + y);
-Console.WriteLine("\nСумма: " + sum);
 
-var fruits = new List<string> { "Автобус", "Вино", "Вино", "ВоксельныйИзмельчитеИнатор" };
+// Пример использования MyIntersect:
+var collection1 = new List<int> { 1, 2, 3, 4, 5 };
+var collection2 = new List<int> { 4, 5, 6, 7, 8 };
+var result = collection1.MyIntersect(collection2);
 
-var sortedFruits = fruits.SortBy(x => x.Length);
-Console.WriteLine("\nСортировка по длинне: " + string.Join(", ", sortedFruits));
-
-var groupedFruits = fruits.GroupByCount(fruit => fruit.Length);
-Console.WriteLine("\nГрупировка по числу символов: ");
-foreach (var group in groupedFruits)
+foreach (var item in result)
 {
-    Console.WriteLine($"{group.Key}: {string.Join(", ", group.Value)}");
+    Console.Write(item + " ");
+}
+Console.WriteLine();
+
+
+// Пример использования MyDoThing:
+var words = new List<string> { "night", "day", "morning", "days" };
+var lengths = words.MyDoThing(word => word.Length); 
+Console.WriteLine($"Длинна: {string.Join(", ", lengths)}");
+
+
+// Пример использования MyDistinct:
+var duplicates = new List<string> { "Tomato", "Cucummber", "Cucummber", "Cucummber" };
+var unique = duplicates.MyDistinct(word => word); // Вернет список без дубликатов ["apple", "banana", "orange"]
+Console.WriteLine($"Уникальные слова: {string.Join(", ", unique)}");
+
+// MyToDictionary:
+List<string> words1 = new List<string> { "apple", "banana", "cat", "dog", "elephant", "fish" };
+
+int n = 2; // первые n букв для фильтрации
+var filteredDictionary = words.MyToDictionary(word => word.FirstOrDefault(), n);
+
+foreach (var entry in filteredDictionary)
+{
+    Console.WriteLine($"Key: {entry.Key}, Words: [{string.Join(", ", entry.Value)}]");
 }

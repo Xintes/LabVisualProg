@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{111F8DBD-47BF-4F25-B9BD-48D42B82A390}|MyEvent\\MyEvent.csproj|solutionrelative:myevent\\mushroompicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{111F8DBD-47BF-4F25-B9BD-48D42B82A390}|MyEvent\\MyEvent.csproj|c:\\users\\mrkyt\\desktop\\\u0443\u0447\u0451\u0431\u0430\\githun_uchoba\\virtualprog\\lab\\lab7visualprog\\myevent\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{111F8DBD-47BF-4F25-B9BD-48D42B82A390}|MyEvent\\MyEvent.csproj|C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab7VisualProg\\myevent\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{111F8DBD-47BF-4F25-B9BD-48D42B82A390}|MyEvent\\MyEvent.csproj|solutionrelative:myevent\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5533C604-1B49-410E-92AB-D8720D8232B0}|Lab7VisualProg\\Lab7VisualProg.csproj|c:\\users\\mrkyt\\desktop\\\u0443\u0447\u0451\u0431\u0430\\githun_uchoba\\virtualprog\\lab\\lab7visualprog\\lab7visualprog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5533C604-1B49-410E-92AB-D8720D8232B0}|Lab7VisualProg\\Lab7VisualProg.csproj|C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab7VisualProg\\lab7visualprog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5533C604-1B49-410E-92AB-D8720D8232B0}|Lab7VisualProg\\Lab7VisualProg.csproj|solutionrelative:lab7visualprog\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "MyEvent\\MushroomPicker.cs",
               "ToolTip": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab7VisualProg\\MyEvent\\MushroomPicker.cs",
               "RelativeToolTip": "MyEvent\\MushroomPicker.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-26T16:25:41.393Z",
               "EditorCaption": ""
@@ -51,8 +51,7 @@
               "RelativeToolTip": "MyEvent\\Event.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAIwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-26T14:22:22.054Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T14:22:22.054Z"
             },
             {
               "$type": "Document",

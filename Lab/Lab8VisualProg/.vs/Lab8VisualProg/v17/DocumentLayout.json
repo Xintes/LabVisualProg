@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\mrkyt\\source\\repos\\Lab8VisualProg\\",
+  "WorkspaceRootPath": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab8VisualProg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6CB27C4D-9049-4733-AA2C-290C83A78868}|Lab8VisualProg\\Lab8VisualProg.csproj|c:\\users\\mrkyt\\source\\repos\\lab8visualprog\\lab8visualprog\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CB27C4D-9049-4733-AA2C-290C83A78868}|Lab8VisualProg\\Lab8VisualProg.csproj|c:\\users\\mrkyt\\desktop\\\u0443\u0447\u0451\u0431\u0430\\githun_uchoba\\virtualprog\\lab\\lab8visualprog\\lab8visualprog\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CB27C4D-9049-4733-AA2C-290C83A78868}|Lab8VisualProg\\Lab8VisualProg.csproj|solutionrelative:lab8visualprog\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DE206A3-4176-4C72-A76F-74FF7FD35D90}|run\\run.csproj|c:\\users\\mrkyt\\source\\repos\\lab8visualprog\\run\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DE206A3-4176-4C72-A76F-74FF7FD35D90}|run\\run.csproj|solutionrelative:run\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CB27C4D-9049-4733-AA2C-290C83A78868}|Lab8VisualProg\\Lab8VisualProg.csproj|C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab8VisualProg\\lab8visualprog\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB27C4D-9049-4733-AA2C-290C83A78868}|Lab8VisualProg\\Lab8VisualProg.csproj|solutionrelative:lab8visualprog\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CB27C4D-9049-4733-AA2C-290C83A78868}|Lab8VisualProg\\Lab8VisualProg.csproj|c:\\users\\mrkyt\\source\\repos\\lab8visualprog\\lab8visualprog\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CB27C4D-9049-4733-AA2C-290C83A78868}|Lab8VisualProg\\Lab8VisualProg.csproj|C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab8VisualProg\\lab8visualprog\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CB27C4D-9049-4733-AA2C-290C83A78868}|Lab8VisualProg\\Lab8VisualProg.csproj|solutionrelative:lab8visualprog\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CB27C4D-9049-4733-AA2C-290C83A78868}|Lab8VisualProg\\Lab8VisualProg.csproj|c:\\users\\mrkyt\\source\\repos\\lab8visualprog\\lab8visualprog\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0DE206A3-4176-4C72-A76F-74FF7FD35D90}|run\\run.csproj|C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab8VisualProg\\run\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DE206A3-4176-4C72-A76F-74FF7FD35D90}|run\\run.csproj|solutionrelative:run\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB27C4D-9049-4733-AA2C-290C83A78868}|Lab8VisualProg\\Lab8VisualProg.csproj|C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab8VisualProg\\lab8visualprog\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CB27C4D-9049-4733-AA2C-290C83A78868}|Lab8VisualProg\\Lab8VisualProg.csproj|solutionrelative:lab8visualprog\\shop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CB27C4D-9049-4733-AA2C-290C83A78868}|Lab8VisualProg\\Lab8VisualProg.csproj|c:\\users\\mrkyt\\source\\repos\\lab8visualprog\\lab8visualprog\\exist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6CB27C4D-9049-4733-AA2C-290C83A78868}|Lab8VisualProg\\Lab8VisualProg.csproj|C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab8VisualProg\\lab8visualprog\\exist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CB27C4D-9049-4733-AA2C-290C83A78868}|Lab8VisualProg\\Lab8VisualProg.csproj|solutionrelative:lab8visualprog\\exist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CB27C4D-9049-4733-AA2C-290C83A78868}|Lab8VisualProg\\Lab8VisualProg.csproj|c:\\users\\mrkyt\\source\\repos\\lab8visualprog\\lab8visualprog\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CB27C4D-9049-4733-AA2C-290C83A78868}|Lab8VisualProg\\Lab8VisualProg.csproj|solutionrelative:lab8visualprog\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +34,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab8VisualProg\\Lab8VisualProg\\Item.cs",
+              "RelativeDocumentMoniker": "Lab8VisualProg\\Item.cs",
+              "ToolTip": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab8VisualProg\\Lab8VisualProg\\Item.cs",
+              "RelativeToolTip": "Lab8VisualProg\\Item.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-27T19:06:44.275Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
@@ -44,11 +58,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Tree.cs",
-              "DocumentMoniker": "C:\\Users\\mrkyt\\source\\repos\\Lab8VisualProg\\Lab8VisualProg\\Tree.cs",
+              "DocumentMoniker": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab8VisualProg\\Lab8VisualProg\\Tree.cs",
               "RelativeDocumentMoniker": "Lab8VisualProg\\Tree.cs",
-              "ToolTip": "C:\\Users\\mrkyt\\source\\repos\\Lab8VisualProg\\Lab8VisualProg\\Tree.cs",
+              "ToolTip": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab8VisualProg\\Lab8VisualProg\\Tree.cs",
               "RelativeToolTip": "Lab8VisualProg\\Tree.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAUwCcAAAAvAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T19:06:32.148Z",
               "EditorCaption": ""
@@ -57,9 +71,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Node.cs",
-              "DocumentMoniker": "C:\\Users\\mrkyt\\source\\repos\\Lab8VisualProg\\Lab8VisualProg\\Node.cs",
+              "DocumentMoniker": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab8VisualProg\\Lab8VisualProg\\Node.cs",
               "RelativeDocumentMoniker": "Lab8VisualProg\\Node.cs",
-              "ToolTip": "C:\\Users\\mrkyt\\source\\repos\\Lab8VisualProg\\Lab8VisualProg\\Node.cs",
+              "ToolTip": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab8VisualProg\\Lab8VisualProg\\Node.cs",
               "RelativeToolTip": "Lab8VisualProg\\Node.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -68,13 +82,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\mrkyt\\source\\repos\\Lab8VisualProg\\run\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab8VisualProg\\run\\Program.cs",
               "RelativeDocumentMoniker": "run\\Program.cs",
-              "ToolTip": "C:\\Users\\mrkyt\\source\\repos\\Lab8VisualProg\\run\\Program.cs",
+              "ToolTip": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab8VisualProg\\run\\Program.cs",
               "RelativeToolTip": "run\\Program.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAYAAAANAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAAYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T19:00:28.954Z",
               "EditorCaption": ""
@@ -82,23 +96,10 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\mrkyt\\source\\repos\\Lab8VisualProg\\Lab8VisualProg\\Item.cs",
-              "RelativeDocumentMoniker": "Lab8VisualProg\\Item.cs",
-              "ToolTip": "C:\\Users\\mrkyt\\source\\repos\\Lab8VisualProg\\Lab8VisualProg\\Item.cs",
-              "RelativeToolTip": "Lab8VisualProg\\Item.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T19:06:44.275Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Exist.cs",
-              "DocumentMoniker": "C:\\Users\\mrkyt\\source\\repos\\Lab8VisualProg\\Lab8VisualProg\\Exist.cs",
+              "DocumentMoniker": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab8VisualProg\\Lab8VisualProg\\Exist.cs",
               "RelativeDocumentMoniker": "Lab8VisualProg\\Exist.cs",
-              "ToolTip": "C:\\Users\\mrkyt\\source\\repos\\Lab8VisualProg\\Lab8VisualProg\\Exist.cs",
+              "ToolTip": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab8VisualProg\\Lab8VisualProg\\Exist.cs",
               "RelativeToolTip": "Lab8VisualProg\\Exist.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -107,11 +108,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Shop.cs",
-              "DocumentMoniker": "C:\\Users\\mrkyt\\source\\repos\\Lab8VisualProg\\Lab8VisualProg\\Shop.cs",
+              "DocumentMoniker": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab8VisualProg\\Lab8VisualProg\\Shop.cs",
               "RelativeDocumentMoniker": "Lab8VisualProg\\Shop.cs",
-              "ToolTip": "C:\\Users\\mrkyt\\source\\repos\\Lab8VisualProg\\Lab8VisualProg\\Shop.cs",
+              "ToolTip": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab8VisualProg\\Lab8VisualProg\\Shop.cs",
               "RelativeToolTip": "Lab8VisualProg\\Shop.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
