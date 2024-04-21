@@ -70,32 +70,53 @@
         }
 
         // Возвращает словарь из переданной коллекции
-        
-            public static Dictionary<TKey, List<TValue>> MyToDictionary<TValue, TKey>(this IEnumerable<TValue> source, Func<TValue, TKey> keyExtractor, int n)
-            {
-                Dictionary<TKey, List<TValue>> dictionary = new Dictionary<TKey, List<TValue>>();
 
-                foreach (TValue item in source)
-                {
-                    TKey key = keyExtractor(item);
-                    if (!dictionary.ContainsKey(key))
-                    {
-                        dictionary[key] = new List<TValue>();
-                    }
-                    dictionary[key].Add(item);
-                }
+        public static Dictionary<TKey, List<TValue>> MyToDictionary<TValue, TKey>(this IEnumerable<TValue> source, Func<TValue, TKey> keyExtractor, int n)
+    where TKey : notnull
+        {
+            //Dictionary<TKey, List<TValue>> dictionary = new Dictionary<TKey, List<TValue>>();
 
-                // Фильтрация слов, начинающихся с первых n букв
-                var filteredDictionary = dictionary.Where(kv => kv.Value.Any(item =>
-                {
-                    TKey key = keyExtractor(item);
-                    return key.ToString().Length >= n && key.ToString().Substring(0, n) == kv.Key.ToString();
-                }))
-                    .ToDictionary(kv => kv.Key, kv => kv.Value);
+            //foreach (TValue item in source)
+            //{
+            //    TKey key = keyExtractor(item);
+            //    if (!dictionary.ContainsKey(key))
+            //    {
+            //        dictionary[key] = new List<TValue>();
+            //    }
+            //    dictionary[key].Add(item);
+            //}
 
-                return filteredDictionary;
-            }
-        
+            //// Фильтрация слов, начинающихся с первых n букв
+            //var filteredDictionary = dictionary.Where(kv => {
+            //    string? stringKey = kv.Key?.ToString(); // Добавлено "?"
+            //    string? stringValue = keyExtractor(kv.Value[0])?.ToString(); // Добавлено "?"
+
+            //    bool keyContainsNChars = stringKey?.Length >= n; // Добавлено "?"
+
+            //    bool valueStartsFomNChars = stringKey?.Substring(0, n) == stringValue; // Добавлено "?"
+            //    return keyContainsNChars && valueStartsFomNChars;
+            //})
+            //    .ToDictionary(kv => kv.Key, kv => kv.Value);
+
+            //return filteredDictionary;
+
+
+            var filteredDictionary =
+         (
+             from item in source
+             let key = keyExtractor(item)
+             group item by key into grouped
+             let stringKey = grouped.Key?.ToString()
+             let stringValue = keyExtractor(grouped.First())?.ToString()
+             where stringKey?.Length >= n && stringKey?.Substring(0, n) == stringValue
+             select new { Key = grouped.Key, Values = grouped.ToList() }
+         ).ToDictionary(x => x.Key, x => x.Values);
+
+            return filteredDictionary;
+
+
+        }
+
 
     }
 }
@@ -104,3 +125,7 @@
 //На защ
 //Dictionary<TKey, List<TValue>>
 //В этом словаре найти слова, начинающиеся на превые n букв
+
+//CS 8714
+
+//Написать в виде query
