@@ -1,0 +1,10 @@
+C:\Users\mrkyt\source\repos\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe.config
+C:\Users\mrkyt\source\repos\ImageEditor\ImageEditor\bin\Debug\ImageEditor.exe
+C:\Users\mrkyt\source\repos\ImageEditor\ImageEditor\bin\Debug\ImageEditor.pdb
+C:\Users\mrkyt\source\repos\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.AssemblyReference.cache
+C:\Users\mrkyt\source\repos\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Image.resources
+C:\Users\mrkyt\source\repos\ImageEditor\ImageEditor\obj\Debug\ImageEditor.Properties.Resources.resources
+C:\Users\mrkyt\source\repos\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.GenerateResource.cache
+C:\Users\mrkyt\source\repos\ImageEditor\ImageEditor\obj\Debug\ImageEditor.csproj.CoreCompileInputs.cache
+C:\Users\mrkyt\source\repos\ImageEditor\ImageEditor\obj\Debug\ImageEditor.exe
+C:\Users\mrkyt\source\repos\ImageEditor\ImageEditor\obj\Debug\ImageEditor.pdb
