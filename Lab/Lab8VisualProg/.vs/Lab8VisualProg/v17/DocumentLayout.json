@@ -47,8 +47,7 @@
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T19:06:44.275Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -62,7 +61,7 @@
               "RelativeDocumentMoniker": "Lab8VisualProg\\Tree.cs",
               "ToolTip": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab8VisualProg\\Lab8VisualProg\\Tree.cs",
               "RelativeToolTip": "Lab8VisualProg\\Tree.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAvAAAA",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAAwCcAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-27T19:06:32.148Z",
               "EditorCaption": ""
@@ -77,8 +76,7 @@
               "RelativeToolTip": "Lab8VisualProg\\Node.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T19:00:24.699Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T19:00:24.699Z"
             },
             {
               "$type": "Document",
@@ -90,8 +88,7 @@
               "RelativeToolTip": "run\\Program.cs",
               "ViewState": "AQIAACkAAAAAAAAAAAAAAAYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T19:00:28.954Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T19:00:28.954Z"
             },
             {
               "$type": "Document",
@@ -103,8 +100,7 @@
               "RelativeToolTip": "Lab8VisualProg\\Exist.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T19:07:03.515Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T19:07:03.515Z"
             },
             {
               "$type": "Document",
@@ -116,8 +112,7 @@
               "RelativeToolTip": "Lab8VisualProg\\Shop.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-27T19:07:16.618Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-27T19:07:16.618Z"
             }
           ]
         }

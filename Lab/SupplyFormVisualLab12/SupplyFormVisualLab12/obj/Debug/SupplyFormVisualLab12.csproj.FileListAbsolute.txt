@@ -1,0 +1,16 @@
+C:\Users\mrkyt\source\repos\SupplyFormVisualLab12\SupplyFormVisualLab12\bin\Debug\SupplyFormVisualLab12.exe.config
+C:\Users\mrkyt\source\repos\SupplyFormVisualLab12\SupplyFormVisualLab12\bin\Debug\SupplyFormVisualLab12.exe
+C:\Users\mrkyt\source\repos\SupplyFormVisualLab12\SupplyFormVisualLab12\bin\Debug\SupplyFormVisualLab12.pdb
+C:\Users\mrkyt\source\repos\SupplyFormVisualLab12\SupplyFormVisualLab12\obj\Debug\SupplyFormVisualLab12.csproj.AssemblyReference.cache
+C:\Users\mrkyt\source\repos\SupplyFormVisualLab12\SupplyFormVisualLab12\obj\Debug\SupplyFormVisualLab12.Properties.Resources.resources
+C:\Users\mrkyt\source\repos\SupplyFormVisualLab12\SupplyFormVisualLab12\obj\Debug\SupplyFormVisualLab12.csproj.GenerateResource.cache
+C:\Users\mrkyt\source\repos\SupplyFormVisualLab12\SupplyFormVisualLab12\obj\Debug\SupplyFormVisualLab12.csproj.CoreCompileInputs.cache
+C:\Users\mrkyt\source\repos\SupplyFormVisualLab12\SupplyFormVisualLab12\obj\Debug\SupplyFormVisualLab12.exe
+C:\Users\mrkyt\source\repos\SupplyFormVisualLab12\SupplyFormVisualLab12\obj\Debug\SupplyFormVisualLab12.pdb
+C:\Users\mrkyt\source\repos\SupplyFormVisualLab12\SupplyFormVisualLab12\obj\Debug\SupplyFormVisualLab12.SupplyForm.resources
+C:\Users\mrkyt\source\repos\SupplyFormVisualLab12\SupplyFormVisualLab12\bin\Debug\EntityFramework.dll
+C:\Users\mrkyt\source\repos\SupplyFormVisualLab12\SupplyFormVisualLab12\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mrkyt\source\repos\SupplyFormVisualLab12\SupplyFormVisualLab12\bin\Debug\EntityFramework.xml
+C:\Users\mrkyt\source\repos\SupplyFormVisualLab12\SupplyFormVisualLab12\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mrkyt\source\repos\SupplyFormVisualLab12\SupplyFormVisualLab12\obj\Debug\SupplyFo.BEEAC901.Up2Date
+C:\Users\mrkyt\source\repos\SupplyFormVisualLab12\SupplyFormVisualLab12\obj\Debug\SupplyFormVisualLab12.AddItemForm.resources

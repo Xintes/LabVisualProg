@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab10VisualProg\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F0743E0-E3D8-4760-8CB0-1843908C801D}|RUN\\RUN.csproj|c:\\users\\mrkyt\\desktop\\\u0443\u0447\u0451\u0431\u0430\\githun_uchoba\\virtualprog\\lab\\lab10visualprog\\run\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7F0743E0-E3D8-4760-8CB0-1843908C801D}|RUN\\RUN.csproj|solutionrelative:run\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{1F77B871-ED29-44EB-9BCD-1851B072B21B}|Lab10VisualProg\\Lab10VisualProg.csproj|C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab10VisualProg\\lab10visualprog\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F77B871-ED29-44EB-9BCD-1851B072B21B}|Lab10VisualProg\\Lab10VisualProg.csproj|solutionrelative:lab10visualprog\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F0743E0-E3D8-4760-8CB0-1843908C801D}|RUN\\RUN.csproj|c:\\users\\mrkyt\\desktop\\\u0443\u0447\u0451\u0431\u0430\\githun_uchoba\\virtualprog\\lab\\lab10visualprog\\run\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F0743E0-E3D8-4760-8CB0-1843908C801D}|RUN\\RUN.csproj|solutionrelative:run\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 201,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab10VisualProg\\RUN\\Program.cs",
               "RelativeDocumentMoniker": "RUN\\Program.cs",
               "ToolTip": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab10VisualProg\\RUN\\Program.cs",
               "RelativeToolTip": "RUN\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-28T16:55:40.853Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Files.cs",
               "DocumentMoniker": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab10VisualProg\\Lab10VisualProg\\Files.cs",
               "RelativeDocumentMoniker": "Lab10VisualProg\\Files.cs",
               "ToolTip": "C:\\Users\\mrkyt\\Desktop\\\u0423\u0447\u0451\u0431\u0430\\GitHun_UchoBA\\VirtualProg\\Lab\\Lab10VisualProg\\Lab10VisualProg\\Files.cs",
               "RelativeToolTip": "Lab10VisualProg\\Files.cs",
-              "ViewState": "AQIAAE8AAAAAAAAAAAAYwBwAAAAMAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBwAAABgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-28T16:55:28.194Z",
               "EditorCaption": ""

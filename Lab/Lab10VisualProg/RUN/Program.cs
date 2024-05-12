@@ -14,6 +14,9 @@ if (directory != null)
     FileClass file = FileClass.Open(filePath);
     string R01 = file.ReadLine();
     Console.WriteLine(R01);
+    file.Write("456", 3);
+    R01 = file.ReadLine();
+    Console.WriteLine(R01);
 }
 else
 {

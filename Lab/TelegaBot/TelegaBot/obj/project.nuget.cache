@@ -1,13 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "fUix1goNo3w+BOvtE9w5ikKaUn2g/RPFfyFuocetc3Azs25iuY/tHU+X/D7LM1li/xrtxR+FOje8rJ7op1RdsA==",
+  "dgSpecHash": "gOHaIEiuIH0QDQ3KU1fmb51sCShwVHtP6dUWcBu2zTi4AOk+ksZZQeOGIaZUZmJ/cYu2dRaNP7n+vzU2vEOJxg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mrkyt\\source\\repos\\TelegaBot\\TelegaBot\\TelegaBot.csproj",
+  "projectFilePath": "C:\\Users\\mrkyt\\Desktop\\Учёба\\GitHun_UchoBA\\VirtualProg\\Lab\\TelegaBot\\TelegaBot\\TelegaBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mrkyt\\.nuget\\packages\\magick.net-q16-anycpu\\13.6.0\\magick.net-q16-anycpu.13.6.0.nupkg.sha512",
     "C:\\Users\\mrkyt\\.nuget\\packages\\magick.net.core\\13.6.0\\magick.net.core.13.6.0.nupkg.sha512",
+    "C:\\Users\\mrkyt\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
     "C:\\Users\\mrkyt\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\mrkyt\\.nuget\\packages\\sixlabors.imagesharp\\3.1.4\\sixlabors.imagesharp.3.1.4.nupkg.sha512",
+    "C:\\Users\\mrkyt\\.nuget\\packages\\system.drawing.common\\8.0.4\\system.drawing.common.8.0.4.nupkg.sha512",
     "C:\\Users\\mrkyt\\.nuget\\packages\\telegram.bot\\19.0.0\\telegram.bot.19.0.0.nupkg.sha512"
   ],
   "logs": []

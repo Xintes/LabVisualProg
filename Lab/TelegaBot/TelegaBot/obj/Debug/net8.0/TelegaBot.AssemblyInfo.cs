@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TelegaBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9cbe2d8bd195b38dd6fcd6d2e846853a497991eb")]
 [assembly: System.Reflection.AssemblyProductAttribute("TelegaBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TelegaBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

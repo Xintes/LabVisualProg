@@ -7,11 +7,9 @@ using Telegram.Bot.Polling;
 using Telegram.Bot.Types;
 using Telegram.Bot.Exceptions;
 using Newtonsoft.Json;
-using System.Drawing;
 using Telegram.Bot.Types.Enums;
-using SixLabors.ImageSharp.Processing;
-using ImageMagick;
-using Telegram.Bot.Types.ReplyMarkups;
+using Telegram.Bot.Requests;
+using static System.Net.WebRequestMethods;
 
 namespace Telega
 {
@@ -88,40 +86,30 @@ namespace Telega
 
 
 
-                if (update.Type == Telegram.Bot.Types.Enums.UpdateType.Message)
+                if (message?.Type == MessageType.Photo)
                 {
-                    if (message?.Type == MessageType.Photo)
-                    {
-                        var photo = message.Photo.LastOrDefault();
-                        if (photo != null)
-                        {
-                            var file = await botClient.GetFileAsync(photo.FileId);
-                            using (var stream = new MemoryStream())
-                            {
-                                await botClient.DownloadFileAsync(file.FilePath, stream);
-                                stream.Position = 0;
+                    var file = await botClient.GetFileAsync(message.Photo.Last().FileId);
 
-                                // Переворачиваем изображение на 180 градусов
-                                using (var image = new MagickImage(stream))
-                                {
-                                    image.Rotate(180);
-                                    stream.SetLength(0);
-                                    image.Write(stream);
-                                    stream.Position = 0;
-                                }
+                    string imagePath = @".\photoToRotate.jpg";
 
-                                await botClient.SendPhotoAsync(message.Chat.Id, new InputOnlineFile(stream));
-                            }
-                        }
-                    }
+                    using (var fileStream = new FileStream(imagePath, FileMode.Create))
+                        await botClient.DownloadFileAsync(file.FilePath, fileStream);
 
-                    // ...
+                    var imageRotated = System.Drawing.Image.FromFile(imagePath);
+                    imageRotated.RotateFlip(System.Drawing.RotateFlipType.Rotate180FlipNone);
+                    imageRotated.Save(imagePath);
+
+                    using (var fileStream = new FileStream(imagePath, FileMode.Open))
+                        await botClient.SendPhotoAsync(message.Chat, InputFile.FromStream(fileStream));
+
+                    System.IO.File.Delete(imagePath);
+
+                    return;
                 }
 
 
 
-
-                if (message?.Text?.ToLower() == "/picture")
+            if (message?.Text?.ToLower() == "/picture")
                 {
                     using (var stream = System.IO.File.Open(GetRandomPicture(), FileMode.Open))
                     {

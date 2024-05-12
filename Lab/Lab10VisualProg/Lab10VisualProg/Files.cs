@@ -18,7 +18,7 @@ namespace Lab10VisualProg
 
         private static Stream CreateStream(string path)
         {
-            Stream stream = new FileStream(path, FileMode.Create, FileAccess.ReadWrite);
+            Stream stream = new FileStream(path, FileMode.Create, FileAccess.ReadWrite, FileShare.ReadWrite);
             stream.Position = 0; // Установить указатель позиции чтения в начало файла
             return stream;
 
@@ -26,7 +26,7 @@ namespace Lab10VisualProg
 
         private static Stream OpenStream(string path)
         {
-            return new FileStream(path, FileMode.Open, FileAccess.ReadWrite);
+            return new FileStream(path, FileMode.Open, FileAccess.ReadWrite, FileShare.ReadWrite);
         }
 
         public static FileClass Create(string path)
